@@ -1,0 +1,79 @@
+---
+
+- id: 0
+  names:
+    - C
+    - C♮
+    - D𝄫
+    - B♯
+
+- id: 1
+  names:
+    - D♭
+    - C♯
+    - B𝄪
+
+- id: 2
+  names:
+    - D
+    - D♮
+    - E𝄫
+    - C𝄪
+
+- id: 3
+  names:
+    - E♭
+    - D♯
+    - F𝄫
+
+- id: 4
+  names:
+    - E
+    - E♮
+    - F♭
+    - D𝄪
+
+- id: 5
+  names:
+    - F
+    - F♮
+    - E♯
+    - G𝄫
+
+- id: 6
+  names:
+    - G♭
+    - F♯
+    - E𝄪
+
+- id: 7
+  names:
+    - G
+    - G♮
+    - A𝄫
+    - F𝄪
+
+- id: 8
+  names:
+    - A♭
+    - G♯
+
+- id: 9
+  names:
+    - A
+    - A♮
+    - B𝄫
+    - G𝄪
+
+- id: 10
+  names:
+    - B♭
+    - A♯
+    - C𝄫
+
+- id: 11
+  names:
+    - B
+    - B♮
+    - C♭
+    - A𝄪
