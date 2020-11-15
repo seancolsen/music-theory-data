@@ -1,0 +1,5148 @@
+---
+
+- binary: 115
+  names:
+    - name: Greek Arkaik
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+
+- binary: 173
+  names:
+    - name: Nando-Kyemyonjo
+      origin: Korea
+      citations:
+        - TheScaleOmnibus
+    - name: Chad Gadyo
+      origin: Jewish
+      citations:
+        - TheScaleOmnibus
+    - name: Ghana Pentatonic
+      origin: Ghana
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Purnanalita
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 181
+  names:
+    - name: Raga Budhamanohari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 199
+  names:
+    - name: Raga Nabhomani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 219
+  names:
+    - name: Istrian
+      origin: Croatia
+      citations:
+        - TheScaleOmnibus
+
+- binary: 245
+  names:
+    - name: Raga Dipak
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 299
+  names:
+    - name: Raga Chitthakarshini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 301
+  names:
+    - name: Raga Audav Tukhari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 307
+  names:
+    - name: Syrian Pentatonic
+      origin: Syria
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Megharanjani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 309
+  names:
+    - name: Altered Major Pentatonic
+      citations:
+        - TheScaleOmnibus
+
+- binary: 313
+  names:
+    - name: Center-Cluster PentaMirror
+      citations:
+        - TheScaleOmnibus
+
+- binary: 331
+  names:
+    - name: Raga Chaya Todi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 395
+  names:
+    - name: Pelog Pentatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Belinese
+      origin: Bali
+      citations:
+        - TheScaleOmnibus
+    - name: Madenda Modern
+      citations:
+        - TheScaleOmnibus
+    - name: Phrygian Pentatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhupalam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ramkali 2
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Tezeta Minor
+      origin: Ethiopia
+      citations:
+        - TheScaleOmnibus
+
+- binary: 397
+  names:
+    - name: Ake-Bono
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Aeolian Pentatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Kata-Kumoi
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Yona Nuki Minor
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 403
+  names:
+    - name: Raga Bowli Ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Reva
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Revagupti
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Vibhas
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 405
+  names:
+    - name: Major Pentatonic ♭6
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhupeshwari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Janasammodini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 409
+  names:
+    - name: Augmented Pentatonic
+      citations:
+        - TheScaleOmnibus
+
+- binary: 419
+  names:
+    - name: In
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Ambassel
+      origin: Ethiopia
+      citations:
+        - TheScaleOmnibus
+    - name: Naka Zora
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Olympos Enharmonic
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Geyahejjajji
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Gunkali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kannadabangala
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kunakri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Latantapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Malahari Ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Salanganata
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Saveri ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Sakura
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Soft Descend
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 421
+  names:
+    - name: Han-Kumoi
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Shobhavari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sutradhari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 425
+  names:
+    - name: Raga Kokil Pancham
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 427
+  names:
+    - name: Raga Suddha Simantini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 433
+  names:
+    - name: Raga Zilaf
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 435
+  names:
+    - name: Raga Malahari Descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Purna Pancama
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 451
+  names:
+    - name: Raga Saugandhini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Saugandhunu
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 455
+  names:
+    - name: Two-semitone Tritone
+      citations:
+        - TheScaleOmnibus
+
+- binary: 461
+  names:
+    - name: Raga Syamalam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 467
+  names:
+    - name: Raga Dhavalangam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Indupriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 557
+  names:
+    - name: Raga Abhogi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 587
+  names:
+    - name: Major Pentatonic ♭3
+      citations:
+        - TheScaleOmnibus
+
+- binary: 595
+  names:
+    - name: Major Pentatonic ♭2 ♭5
+      citations:
+        - TheScaleOmnibus
+
+- binary: 597
+  names:
+    - name: Kung
+      citations:
+        - TheScaleOmnibus
+
+- binary: 619
+  names:
+    - name: Double Phrygian
+      citations:
+        - TheScaleOmnibus
+
+- binary: 621
+  names:
+    - name: Pyramid Hexatonic
+      citations:
+        - TheScaleOmnibus
+
+- binary: 653
+  names:
+    - name: Dorian Pentatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Kumoi
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 659
+  names:
+    - name: Major Pentatonic ♭2
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bibhas
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Rasika Ranjani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Scriabin
+      citations:
+        - TheScaleOmnibus
+
+- binary: 661
+  names:
+    - name: Major Pentatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Ghana Pentatonic 2
+      origin: Ghana
+      citations:
+        - TheScaleOmnibus
+    - name: Gong
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Man Jue
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Peruvian Major Pentatonic
+      origin: Peru
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhopali
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhup
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bilahari ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Deskar
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Jait Kalyan
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kokila
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Mohanam
+      citations:
+        - TheScaleOmnibus
+    - name: Ryosen
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Tezeta Major
+      origin: Ethiopia
+      citations:
+        - TheScaleOmnibus
+    - name: Yona Nuki Major
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 665
+  names:
+    - name: Raga Mohanangi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 667
+  names:
+    - name: Blues Dorian Hexatonic
+      citations:
+        - TheScaleOmnibus
+
+- binary: 675
+  names:
+    - name: Altered Pentatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Manaranjani 2
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 677
+  names:
+    - name: Ritusen
+      citations:
+        - TheScaleOmnibus
+    - name: Bac
+      origin: Vietnam
+      citations:
+        - TheScaleOmnibus
+    - name: Blues Major
+      citations:
+        - TheScaleOmnibus
+    - name: Lai Po Sai
+      origin: Laos
+      citations:
+        - TheScaleOmnibus
+    - name: Lai Soutsanaen
+      origin: Laos
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Arabhi ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Devakriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Shree ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Suddha Saveri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Yadukua Kambodhi ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Ritzu Gagaku
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Scottish Pentatonic
+      origin: Scotland
+      citations:
+        - TheScaleOmnibus
+    - name: Ujo
+      origin: Korea
+      citations:
+        - TheScaleOmnibus
+    - name: Yo
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Zheng
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Zhi
+      origin: China
+      citations:
+        - TheScaleOmnibus
+
+- binary: 681
+  names:
+    - name: Kyemyonjo
+      citations:
+        - TheScaleOmnibus
+    - name: Hybrid Pentatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Minor 6th Added
+      citations:
+        - TheScaleOmnibus
+
+- binary: 685
+  names:
+    - name: Sho
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Gauri Velavali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Suddha Bangala
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 689
+  names:
+    - name: Raga Nagaswaravali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Mand
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 691
+  names:
+    - name: Raga Kalavati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ragamalini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 693
+  names:
+    - name: Scottish Hexatonic
+      origin: Scotland
+      citations:
+        - TheScaleOmnibus
+    - name: Arezzo Major Diatonic Hexachord
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Devarangini 2
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kambhoji
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kambodhi ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Yaduka Kambodi descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 709
+  names:
+    - name: Raga Shri Kalyan
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 711
+  names:
+    - name: Raga Chandrajyoti
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 715
+  names:
+    - name: Messiaen 2nd Mode Truncated
+      citations:
+        - TheScaleOmnibus
+
+- binary: 717
+  names:
+    - name: Raga Vijayanagari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 721
+  names:
+    - name: Raga Dhavalashri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 725
+  names:
+    - name: Raga Aivarati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Ancient Chinese
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kalyani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kalyani Keseri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Yamuna Kalyani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 731
+  names:
+    - name: Superlocrian 𝄫6 𝄫7
+      citations:
+        - TheScaleOmnibus
+
+- binary: 743
+  names:
+    - name: Chromatic Hypophrygian Inverse
+      citations:
+        - TheScaleOmnibus
+
+- binary: 775
+  names:
+    - name: Raga Putrika
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 807
+  names:
+    - name: Raga Suddha Mukhari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 819
+  names:
+    - name: Inverted Augmented
+      citations:
+        - TheScaleOmnibus
+    - name: Messiaen 2nd Mode
+      citations:
+        - TheScaleOmnibus
+    - name: Prometheus Liszt
+      citations:
+        - TheScaleOmnibus
+
+- binary: 845
+  names:
+    - name: Raga Neelangi
+      citations:
+        - TheScaleOmnibus
+
+- binary: 851
+  names:
+    - name: Raga Hejjajji
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 853
+  names:
+    - name: Eskimo Hexatonic
+      origin: Alaska
+      citations:
+        - TheScaleOmnibus
+
+- binary: 855
+  names:
+    - name: Ultralocrian 𝄫3
+      citations:
+        - TheScaleOmnibus
+
+- binary: 859
+  names:
+    - name: Ultralocrian
+      citations:
+        - TheScaleOmnibus
+    - name: Mixolydian ♯1
+      citations:
+        - TheScaleOmnibus
+
+- binary: 871
+  names:
+    - name: Locrian 𝄫3 𝄫7
+      citations:
+        - TheScaleOmnibus
+
+- binary: 875
+  names:
+    - name: Locrian 𝄫7
+      citations:
+        - TheScaleOmnibus
+
+- binary: 877
+  names:
+    - name: Hungarian Major Inverse
+      origin: Hungary
+      citations:
+        - TheScaleOmnibus
+
+- binary: 915
+  names:
+    - name: Raga Kalagada
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 917
+  names:
+    - name: Bebop Major Hexatonic
+      citations:
+        - TheScaleOmnibus
+
+- binary: 919
+  names:
+    - name: Chromatic Phrygian Inverse
+      citations:
+        - TheScaleOmnibus
+
+- binary: 923
+  names:
+    - name: Ultraphrygian
+      citations:
+        - TheScaleOmnibus
+
+- binary: 925
+  names:
+    - name: Chromatic Hypodorian
+      citations:
+        - TheScaleOmnibus
+    - name: Relative Blues
+      citations:
+        - TheScaleOmnibus
+
+- binary: 931
+  names:
+    - name: Raga Kalakanthi 2
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 935
+  names:
+    - name: Chromatic Dorian
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Kanakangi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kanakambari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 939
+  names:
+    - name: Raga Malini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Senagrani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 941
+  names:
+    - name: Mela Jhankaradhvani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Jhankara Bhramavi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 945
+  names:
+    - name: Raga Saravati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 947
+  names:
+    - name: Gypsy Hexatonic
+      origin: Hungarian
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Gayakapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kalakanthi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 949
+  names:
+    - name: Bebop Major Heptatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Mararanjani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Keseri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 953
+  names:
+    - name: Mela Yagapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kalahamsa
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 967
+  names:
+    - name: Mela Salaga
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 971
+  names:
+    - name: Mela Gavambodhi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Girvani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 973
+  names:
+    - name: Mela Syamalangi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Shyamalam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 979
+  names:
+    - name: Mela Dhavalambari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: John Found’s Mantra Of Will
+      citations:
+        - TheScaleOmnibus
+
+- binary: 981
+  names:
+    - name: Mela Kantamani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kuntala
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Srutiranjani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 985
+  names:
+    - name: Raga Santanamanjari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sucaritra
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1113
+  names:
+    - name: Locrian Pentatonic
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1115
+  names:
+    - name: Sho ♯2
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1123
+  names:
+    - name: Iwato
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Hon-Kumoi-Joshi
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Zokuso Pentatonic
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1129
+  names:
+    - name: Minor Pentatonic 7 ♭5
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Jayakauns
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1131
+  names:
+    - name: Honkoshi
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1163
+  names:
+    - name: Raga Rukmangi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1165
+  names:
+    - name: Pygmy
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1171
+  names:
+    - name: Raga Manaranjani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1173
+  names:
+    - name: Dominant Pentatonic
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1177
+  names:
+    - name: Major Pentatonic ♭7 ♯9
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1187
+  names:
+    - name: Kokin-Choshi
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Ian Iwato
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Insen Pentatonic
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Miyakobushi
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bairagi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Baira
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Lasaki
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ribhavari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Revati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Soft Ascend
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1189
+  names:
+    - name: Suspended Pentatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Egyptian
+      origin: Egypt
+      citations:
+        - TheScaleOmnibus
+    - name: Jin-Yu
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Quin-Yu
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Quin-Yu
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Jin-Yu
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Madhmat Sarang
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Madhyamavati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Rui Bin
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Shang-Diao
+      origin: China
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1193
+  names:
+    - name: Minor Pentatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Bati
+      origin: Ethiopia
+      citations:
+        - TheScaleOmnibus
+    - name: Blues Minor Pentatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Gu Xian
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Jia Zhong
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Lai Noi
+      origin: Laos
+      citations:
+        - TheScaleOmnibus
+    - name: Lai Yai
+      origin: Laos
+      citations:
+        - TheScaleOmnibus
+    - name: P’yongjo-kyemyonjo
+      origin: Korea
+      citations:
+        - TheScaleOmnibus
+    - name: Peruvian Minor Pentatonic
+      origin: Peru
+      citations:
+        - TheScaleOmnibus
+    - name: Qing Shang
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Abheri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Dhaanyasi ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Dhani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Udhayaravi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Yu 2
+      origin: China
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1195
+  names:
+    - name: Raga Gandharavam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1197
+  names:
+    - name: Minor Hexatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Manirangu
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Nayaki
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Palasi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Raga Pushpalithika
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Suha Sughrai
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1201
+  names:
+    - name: Mixolydian Pentatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Jog
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Savethri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1203
+  names:
+    - name: Raga Gaula
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1205
+  names:
+    - name: Raga Siva Kambhoji
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Andhali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Vivardhini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1209
+  names:
+    - name: Mela Calanata
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhunumanjari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Jog
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1225
+  names:
+    - name: Raga Samudhra Priya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1229
+  names:
+    - name: Raga Gopikatilaka
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Simharava
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1235
+  names:
+    - name: Tritone
+      citations:
+        - TheScaleOmnibus
+    - name: Petrushka chord
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1239
+  names:
+    - name: Chromatic Mixolydian 2
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1255
+  names:
+    - name: Chromatic Mixolydian
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1257
+  names:
+    - name: Blues
+      citations:
+        - TheScaleOmnibus
+    - name: Blues Hexatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Nileshwari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1259
+  names:
+    - name: Blues Phrygian
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1261
+  names:
+    - name: Blues Modified
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1273
+  names:
+    - name: Blues Mixed
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1317
+  names:
+    - name: Chaio
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1321
+  names:
+    - name: Man Gong
+      citations:
+        - TheScaleOmnibus
+    - name: Blues Minor
+      citations:
+        - TheScaleOmnibus
+    - name: Jiao
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Minyo
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Quan Ming
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Hindolam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Yi Ze
+      origin: China
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1323
+  names:
+    - name: Ritzu
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Suddha Todi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1331
+  names:
+    - name: Raga Lalita Bhairav
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Vasantha
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1353
+  names:
+    - name: Chin
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Harikauns
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1355
+  names:
+    - name: Raga Gurjari Todi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1357
+  names:
+    - name: Takemitzu Tree 2
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1361
+  names:
+    - name: Pentatonic Whole-Tone
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1365
+  names:
+    - name: Whole-Tone
+      citations:
+        - TheScaleOmnibus
+    - name: Anhemitonic Hexatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Hexatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Messiaen 1st Mode
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Gopriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sahera
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1367
+  names:
+    - name: Leading Whole-Tone Inverse
+      citations:
+        - TheScaleOmnibus
+    - name: Superlocrian 𝄫3
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1371
+  names:
+    - name: Altered Dominant
+      citations:
+        - TheScaleOmnibus
+    - name: Altered
+      citations:
+        - TheScaleOmnibus
+    - name: Locrian ♭4
+      citations:
+        - TheScaleOmnibus
+    - name: Pomeroy
+      citations:
+        - TheScaleOmnibus
+    - name: Ravel
+      citations:
+        - TheScaleOmnibus
+    - name: Superlocrian
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1373
+  names:
+    - name: Semilocrian ♭4
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1387
+  names:
+    - name: Locrian
+      citations:
+        - TheScaleOmnibus
+    - name: Makam Lami
+      origin: Jewish
+      citations:
+        - TheScaleOmnibus
+    - name: Pien Chih
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Yishtabach
+      origin: Jewish
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1389
+  names:
+    - name: Half Diminished
+      citations:
+        - TheScaleOmnibus
+    - name: Altered Diminished
+      citations:
+        - TheScaleOmnibus
+    - name: Locrian Natural 2
+      citations:
+        - TheScaleOmnibus
+    - name: Minor ♭5
+      citations:
+        - TheScaleOmnibus
+    - name: Minor Locrian
+      citations:
+        - TheScaleOmnibus
+    - name: Semilocrian
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1395
+  names:
+    - name: Locrian Dominant
+      citations:
+        - TheScaleOmnibus
+    - name: Rahawi
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1397
+  names:
+    - name: Major Locrian
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1401
+  names:
+    - name: Spanish Heptatonic
+      origin: Spain
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1403
+  names:
+    - name: Spanish Octatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Ahava Rabba
+      origin: Jewish
+      citations:
+        - TheScaleOmnibus
+    - name: Esplá
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1417
+  names:
+    - name: Raga Shailaja
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Varini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1419
+  names:
+    - name: Raga Kashyapi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1421
+  names:
+    - name: Raga Trimurti
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1435
+  names:
+    - name: Maqam Huzzam
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Saba Zamzam
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Phrygian ♭4
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1437
+  names:
+    - name: Sabach
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1443
+  names:
+    - name: Insen
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Niagari
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Phenadyuti 2
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1445
+  names:
+    - name: Raga Navamanohari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1447
+  names:
+    - name: Mela Ratnangi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Phenadyuti
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1449
+  names:
+    - name: Phrygian Hexatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Desya Todi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Gopikacasantam
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1451
+  names:
+    - name: Phrygian
+      citations:
+        - TheScaleOmnibus
+    - name: Major Inverse
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Kurd
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Bhairavi That
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Hanumatodi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Ousak
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bilashkhani Todi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Dhanyasi descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ghanta
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Zokuso
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1453
+  names:
+    - name: Aeolian
+      citations:
+        - TheScaleOmnibus
+    - name: Cushak
+      origin: Armenia
+      citations:
+        - TheScaleOmnibus
+    - name: Ezel
+      origin: Ethiopia
+      citations:
+        - TheScaleOmnibus
+    - name: Geez
+      origin: Ethiopia
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Natabhairavi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Natural Minor
+      citations:
+        - TheScaleOmnibus
+    - name: Peruvian Minor
+      origin: Peru
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Adana
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Asavari That
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhairavi descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Jaunpuri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Jingla
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Se
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1455
+  names:
+    - name: Phrygian Aeolian ♭4
+      citations:
+        - TheScaleOmnibus
+    - name: Phrygian Aeolian Mixed
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1457
+  names:
+    - name: Raga Kamalamanohari 2
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1459
+  names:
+    - name: Phrygian Dominant
+      citations:
+        - TheScaleOmnibus
+    - name: Alhijaz
+      origin: Arabia
+      citations:
+        - TheScaleOmnibus
+    - name: Avaha or Ahava Rabba
+      origin: Jewish
+      citations:
+        - TheScaleOmnibus
+    - name: Dorico Flamenco
+      origin: Spain
+      citations:
+        - TheScaleOmnibus
+    - name: Freygish or Fraigish
+      citations:
+        - TheScaleOmnibus
+    - name: Harmonic Major Inverse
+      citations:
+        - TheScaleOmnibus
+    - name: Hitzaz or Hijaz
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Humayun
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Hijaz-Nahawand
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Humayun
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Zengule
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Vakulabharanam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Phrygian Major
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Jogiya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Vativasanta
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Spanish
+      origin: Spain
+      citations:
+        - TheScaleOmnibus
+    - name: Spanish Gypsy
+      origin: Spain
+      citations:
+        - TheScaleOmnibus
+    - name: Zilof
+      origin: Spain
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1461
+  names:
+    - name: Melodic Major
+      citations:
+        - TheScaleOmnibus
+    - name: Aeolian Major
+      citations:
+        - TheScaleOmnibus
+    - name: Hindu
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Major Minor
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Ussak
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Carukesi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Mischung 6
+      origin: Germany
+      citations:
+        - TheScaleOmnibus
+    - name: Mixolydian ♭6
+      citations:
+        - TheScaleOmnibus
+    - name: Mixolydian ♭13
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Tarangini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1465
+  names:
+    - name: Mela Ragavardhani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Cudamani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1467
+  names:
+    - name: Flamenco
+      citations:
+        - TheScaleOmnibus
+    - name: Spanish Phrygian
+      origin: Spain
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1477
+  names:
+    - name: Raga Jaganmohanam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1479
+  names:
+    - name: Mela Jalarnava
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1483
+  names:
+    - name: Mela Bhavapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhavani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kalamurti
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1485
+  names:
+    - name: Gypsy
+      origin: Hungary
+      citations:
+        - TheScaleOmnibus
+    - name: Damian Emmanuel
+      citations:
+        - TheScaleOmnibus
+    - name: Hungarian Gypsy
+      origin: Hungary
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Sanmukhapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Camara
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Simmendramadhyamam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1489
+  names:
+    - name: Raga Jyoty
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1491
+  names:
+    - name: Mela Namanarayani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Narmada
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Pratapa
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Purvi Thaat
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1493
+  names:
+    - name: Lydian Dominant ♭6
+      citations:
+        - TheScaleOmnibus
+    - name: Lydian Minor
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ratipriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Rishabapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1495
+  names:
+    - name: Messiaen 6th Mode Inverse
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1497
+  names:
+    - name: Mela Jyotisvarupini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Jotismatti
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1515
+  names:
+    - name: Bebop Locrian
+      citations:
+        - TheScaleOmnibus
+    - name: Phrygian Locrian
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1573
+  names:
+    - name: Pyeong Jo
+      origin: Korea
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Guhamanohari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1577
+  names:
+    - name: Raga Chandrakauns Kafi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Surya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Varamu
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1581
+  names:
+    - name: Raga Shreeranjani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Begeshri 2
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Jayamanohari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kapijangla
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Shee Ranjani or Sriranjani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1585
+  names:
+    - name: Raga Khamaji Durga
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1587
+  names:
+    - name: Raga Rudra Pancama
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1589
+  names:
+    - name: Raga Nattaikurinji
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Regeshri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Rageshwari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1605
+  names:
+    - name: Raga Shubravarni
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1619
+  names:
+    - name: Prometheus Neapolitan
+      origin: Italy
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1621
+  names:
+    - name: Prometheus
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Barbara
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1627
+  names:
+    - name: Superlocrian ♯6
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1643
+  names:
+    - name: Dorian ♭9
+      citations:
+        - TheScaleOmnibus
+    - name: Locrian ♯6
+      citations:
+        - TheScaleOmnibus
+    - name: Locrian Natural Maj6
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1645
+  names:
+    - name: Blues Heptatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Dorian ♭5
+      citations:
+        - TheScaleOmnibus
+    - name: Kartzihiar
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Karcigar
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Nahawand Murassah
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1651
+  names:
+    - name: Oriental
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Hungarian Minor Inverse
+      origin: Hungary
+      citations:
+        - TheScaleOmnibus
+    - name: Minor Gypsy Inverse
+      origin: Hungary
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ahira Lalita
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Tsinganikos
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1653
+  names:
+    - name: Mixolydian ♭5
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1659
+  names:
+    - name: Maqam Shadd’araban
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1669
+  names:
+    - name: Raga Matha Kokila
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Matkokil
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1675
+  names:
+    - name: Raga Salagavarali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1677
+  names:
+    - name: Raga Manavi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1681
+  names:
+    - name: Raga Valaji
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1683
+  names:
+    - name: Raga Malayamarutam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1685
+  names:
+    - name: Mixolydian Hexatonic 2
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1691
+  names:
+    - name: Dorian ♭2 ♭4
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1693
+  names:
+    - name: Bebop Minor
+      citations:
+        - TheScaleOmnibus
+    - name: Banshikicho
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1697
+  names:
+    - name: Raga Kuntvarali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Kuntalavarali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1699
+  names:
+    - name: Raga Rasavali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1701
+  names:
+    - name: Mixolydian Hexatonic
+      citations:
+        - TheScaleOmnibus
+    - name: P’Yongjo
+      origin: Korea
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Andolika
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Darbar
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Devamanohari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Gorakh
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Suposhini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Ragta Narayani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Yosen
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1703
+  names:
+    - name: Mela Venaspati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhanumati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1705
+  names:
+    - name: Raga Manohari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Malavastri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1707
+  names:
+    - name: Dorian ♭2
+      citations:
+        - TheScaleOmnibus
+    - name: Javanese
+      origin: Java
+      citations:
+        - TheScaleOmnibus
+    - name: Jazz Minor Inverse
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Natakapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Phrygian Mixolydian
+      citations:
+        - TheScaleOmnibus
+    - name: Phrygian Natural 6
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ahiri Todi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Natabharanam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1709
+  names:
+    - name: Dorian
+      citations:
+        - TheScaleOmnibus
+    - name: Gregorian 8
+      citations:
+        - TheScaleOmnibus
+    - name: Hyojo
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Kharaharapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Mischung 5
+      origin: Germany
+      citations:
+        - TheScaleOmnibus
+    - name: Nam
+      origin: Vietnam
+      citations:
+        - TheScaleOmnibus
+    - name: Oshikicho
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Begeshri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhairavi ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhimpalasi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Huseni
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kafi That
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kanara
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kharapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Nayaki Kanada
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ritigaula
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Shree descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Yu
+      origin: China
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1711
+  names:
+    - name: Adonai Malakh
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1713
+  names:
+    - name: Raga Vegavahini Ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bahudari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Desya Khamas
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Khamas
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1715
+  names:
+    - name: Harmonic Minor Inverse
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Hicaz
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Zanjaran
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Cakravka
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Mixolydian ♭2
+      citations:
+        - TheScaleOmnibus
+    - name: Mixolydian ♭9
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ahir Bhairav
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bindumalini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Chakravakam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Vagedeeshwari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Vegavahini Descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1717
+  names:
+    - name: Mixolydian
+      citations:
+        - TheScaleOmnibus
+    - name: Gregorian 2
+      citations:
+        - TheScaleOmnibus
+    - name: Gregorian 7
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Harikamboji
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Mischung 3
+      origin: Germany
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Balahamsa
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Harini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Janjuti
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kambodhi descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Khamach Descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Khamaj That
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Khambhavati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Surati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Shang
+      origin: China
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1721
+  names:
+    - name: Rock ‘n Roll
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Vagadhisvari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhogachayanata
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Chayanata
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ganavaridhi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Nandkauns
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1723
+  names:
+    - name: LG Octatonic
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1725
+  names:
+    - name: Bebop Dorian
+      citations:
+        - TheScaleOmnibus
+    - name: Mixolydian Dorian
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Zilla
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1733
+  names:
+    - name: Raga Sarasvati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1735
+  names:
+    - name: Mela Navanitam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1737
+  names:
+    - name: Raga Madhukauns
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1739
+  names:
+    - name: Dorian ♭9 ♯11
+      citations:
+        - TheScaleOmnibus
+    - name: Hindi ♭2 ♭3 ♭7
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Sadvidhmargini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sthavarajam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Tivravahini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Todi ♭7
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1741
+  names:
+    - name: Romanian Minor
+      citations:
+        - TheScaleOmnibus
+    - name: Dorian ♯4
+      citations:
+        - TheScaleOmnibus
+    - name: Gnossiennes
+      citations:
+        - TheScaleOmnibus
+    - name: Kaffa
+      origin: Ethiopia
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Hedjaz
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Nakriz
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Hemavati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Misheberekh
+      origin: Jewish
+      citations:
+        - TheScaleOmnibus
+    - name: Nigriz
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Periaiotikos Minor
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Disisimharavam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Souzinak
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Tunisian
+      origin: Tunisia
+      citations:
+        - TheScaleOmnibus
+    - name: Ukrainian Minor
+      origin: Ukraina
+      citations:
+        - TheScaleOmnibus
+    - name: Ukranian Dorian
+      origin: Ukraina
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1745
+  names:
+    - name: Raga Vutari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1747
+  names:
+    - name: Romanian Major
+      origin: Romania
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Ramapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Nasikabhusani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ramamahohari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1749
+  names:
+    - name: Lydian Dominant
+      citations:
+        - TheScaleOmnibus
+    - name: Acoustic
+      citations:
+        - TheScaleOmnibus
+    - name: Bartok
+      citations:
+        - TheScaleOmnibus
+    - name: Lydian ♭7
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Vacaspati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Mixolydian ♯4
+      citations:
+        - TheScaleOmnibus
+    - name: Overtone
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhusavati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Bhusavali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1753
+  names:
+    - name: Hungarian Major
+      origin: Hungary
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Nasikabhusani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Nasamani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1755
+  names:
+    - name: Diminished Half-tone
+      citations:
+        - TheScaleOmnibus
+    - name: Messiaen 2nd Mode
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1769
+  names:
+    - name: Blues Heptatonic 2
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1773
+  names:
+    - name: Blues Octatonic
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1783
+  names:
+    - name: Youlan
+      origin: China
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1787
+  names:
+    - name: Nonatonic 2
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1789
+  names:
+    - name: Blues Enneatonic 2
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1843
+  names:
+    - name: Mixolydian Augmented Maj9
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1845
+  names:
+    - name: Mixolydian Augmented
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1849
+  names:
+    - name: Raga Dvigandharabushini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1877
+  names:
+    - name: Lydian Augmented Dominant
+      citations:
+        - TheScaleOmnibus
+    - name: Synthetic Mixture ♯5
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1891
+  names:
+    - name: Hijaz Major
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Gypsy 2
+      origin: Hungary
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1965
+  names:
+    - name: Dorian Aeolian
+      citations:
+        - TheScaleOmnibus
+    - name: Gregorian 1
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Anandabhairavi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Deshi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Manji
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Mukhari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1967
+  names:
+    - name: Chromatic Diatonic Dorian
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1981
+  names:
+    - name: Houseini
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+
+- binary: 1997
+  names:
+    - name: Raga Chinthamani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2029
+  names:
+    - name: Kiourdi
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2043
+  names:
+    - name: Maqam Tarzanuyn
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2099
+  names:
+    - name: Raga Megharamji
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2133
+  names:
+    - name: Raga Kumurdaki
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kumudki
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2189
+  names:
+    - name: Raga Hamsadhvani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2197
+  names:
+    - name: Raga Hamsadhvani 2
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2211
+  names:
+    - name: Raga Gowla Ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Gauri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2213
+  names:
+    - name: Tcherepnin Major Pentatonic
+      origin: Russia
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Desh
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2217
+  names:
+    - name: Raga Nattai Descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Udayaravicandrika
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2221
+  names:
+    - name: Raga Sindhura Kafi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2225
+  names:
+    - name: Ionian Pentatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Melog Selisir
+      citations:
+        - TheScaleOmnibus
+    - name: Pelo Degung Modern
+      origin: Bali
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Gambhiranata
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Jaganmohini ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Keradam Ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Nalinakanti
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Ryukyu
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2227
+  names:
+    - name: Raga Gowla Descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2229
+  names:
+    - name: Raga Kedaram Descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Vilasini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2245
+  names:
+    - name: Raga Hamsanada
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Vaijayanti
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2247
+  names:
+    - name: Raga Vijayasri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2249
+  names:
+    - name: Raga Multani 2
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2253
+  names:
+    - name: Raga Amarasenapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2257
+  names:
+    - name: Hirajoshi
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Chinese
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Ching
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Lydian Pentatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Amrtavarshini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Malashri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Shilangi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2259
+  names:
+    - name: Raga Gamakakriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Hamsanarayami
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Mandari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2261
+  names:
+    - name: Raga Ratnakanthi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Chaturangini 2
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2265
+  names:
+    - name: Raga Rasamanjari 2
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2275
+  names:
+    - name: Messiaen 5th Mode
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2281
+  names:
+    - name: Blues Minor Maj7
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2311
+  names:
+    - name: Raga Kumarapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2339
+  names:
+    - name: Raga Kshanika
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2341
+  names:
+    - name: Raga Priyadharshini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2345
+  names:
+    - name: Raga Chandrakauns Kiravani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2347
+  names:
+    - name: Raga Viyogavarali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2349
+  names:
+    - name: Raga Ghantana
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kaishikiranjani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Kaushiranjani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2353
+  names:
+    - name: Romanian Bacovia
+      origin: Romania
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Girija
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2355
+  names:
+    - name: Raga Lalita
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sohini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2357
+  names:
+    - name: Raga Sarasanana
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2377
+  names:
+    - name: Diminished Pentatonic
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2381
+  names:
+    - name: Takemitzu Tree 1
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2385
+  names:
+    - name: Augmented Pentatonic 2
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2389
+  names:
+    - name: Eskimo Hexatonic 2
+      origin: Alaska
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2395
+  names:
+    - name: Superlocrian Maj7
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2411
+  names:
+    - name: Locrian Maj7
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2413
+  names:
+    - name: Harmonic Minor ♭5
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2417
+  names:
+    - name: Raga Gangatarangini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2419
+  names:
+    - name: Persian
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Chromatic Hypolydian Inverse
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Suddha Pancama
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2435
+  names:
+    - name: Raga Deshgaur
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2451
+  names:
+    - name: Raga Bowli Descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bauli
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2453
+  names:
+    - name: Raga Latika
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2457
+  names:
+    - name: Augmented
+      citations:
+        - TheScaleOmnibus
+    - name: Genus Tertium
+      citations:
+        - TheScaleOmnibus
+    - name: Major Augmented
+      citations:
+        - TheScaleOmnibus
+    - name: Messiaen Truncated 3rd Mode Inverse
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Devamani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2459
+  names:
+    - name: Phrygian ♭4 Maj7
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2461
+  names:
+    - name: Sabach Maj7
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2465
+  names:
+    - name: Raga Devaranjani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Devaranji
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2467
+  names:
+    - name: Raga Padi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2469
+  names:
+    - name: Raga Bhinna Pancama
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2471
+  names:
+    - name: Mela Ganamurti
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ganasamavarali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2473
+  names:
+    - name: Raga Takka
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2475
+  names:
+    - name: Neapolitan Minor
+      origin: Italy
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Shahnaz
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Shahnaz Kurdi
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Dhenuka
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Senavati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhinnasadjam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Dhunibinnashadjam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2477
+  names:
+    - name: Harmonic Minor
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Bayat-e-Esfahan
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Sultani Yakah
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Kiravani
+      citations:
+        - TheScaleOmnibus
+    - name: Mischung 4
+      origin: Germany
+      citations:
+        - TheScaleOmnibus
+    - name: Mohammedan
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Deshi 3
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kalyana Vasantha
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kiranavali
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kirvani
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Pilu That
+      citations:
+        - TheScaleOmnibus
+    - name: Sultani Yakah
+      citations:
+        - TheScaleOmnibus
+    - name: Zhalibny Minor
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2479
+  names:
+    - name: Harmonic Neapolitan Minor
+      origin: Italy
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2481
+  names:
+    - name: Raga Kamalamanohari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Paras Ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Pharas Ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Paraju Ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ramamanohari 2
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Simhavahini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sindhu Ramakriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2483
+  names:
+    - name: Double Harmonic
+      citations:
+        - TheScaleOmnibus
+    - name: Arabic
+      origin: Arabia
+      citations:
+        - TheScaleOmnibus
+    - name: Byzantine
+      citations:
+        - TheScaleOmnibus
+    - name: Byzantine Liturgical Chromatic
+      citations:
+        - TheScaleOmnibus
+    - name: Hijaz Kar
+      origin: Arabia
+      citations:
+        - TheScaleOmnibus
+    - name: Hitzazkiar
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Hijazskiar
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Hungarian Folk
+      origin: Hungary
+      citations:
+        - TheScaleOmnibus
+    - name: Major Gypsy
+      origin: Hungary
+      citations:
+        - TheScaleOmnibus
+    - name: Major Phrygian
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Hijaz Kar
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Suzidil
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Mayamalavagowla
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhairav That
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Gaulipantu
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kalingada
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Lalita Panchami
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Paraj
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Paras Descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Pharas Descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Paraju Descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Saveri descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2485
+  names:
+    - name: Harmonic Major
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Sarasangi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Mischung 2
+      origin: Germany
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Haripriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Segiah
+      citations:
+        - TheScaleOmnibus
+    - name: Tabahaniotiko
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2489
+  names:
+    - name: Sengiach
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Gypsy Hexatonic Inverse
+      origin: Hungary
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Gangeyabhusani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Sengah
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2503
+  names:
+    - name: Mela Jhalavarli
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Jinavali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Varali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2507
+  names:
+    - name: Chromatic Lydian Inverse
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Athar Kurd
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Shubhapanturavali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Gamakasamantam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Multani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2509
+  names:
+    - name: Gypsy Minor
+      origin: Hungary
+      citations:
+        - TheScaleOmnibus
+    - name: Double Harmonic Minor
+      citations:
+        - TheScaleOmnibus
+    - name: Harmonic Minor ♯4
+      citations:
+        - TheScaleOmnibus
+    - name: Hungarian Minor
+      origin: Hungary
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Hisar
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Nawa Athar
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Sumhendramadhyama
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Niavent
+      origin: Egypt
+      citations:
+        - TheScaleOmnibus
+    - name: Niaventi Minor
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Madhava Manohari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2511
+  names:
+    - name: Hungarian Minor ♭2
+      origin: Hungary
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2515
+  names:
+    - name: Chromatic Hypolydian
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Kamavardhani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Pireotikos
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Puravi ♭6
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Basant
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Dhipaka
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kasiramakryia
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Pantuvarali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Puriya Dhanashri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Purvi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Shri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Suddha Ramakriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2517
+  names:
+    - name: Pelog
+      origin: Bali
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Latangi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Gitapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Hamsalata
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2521
+  names:
+    - name: Mela Dhatuvardhani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Devarashtra
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Dhauta Pancama
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2535
+  names:
+    - name: Messiaen 4th Mode
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2539
+  names:
+    - name: Bebop Half-diminished
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2541
+  names:
+    - name: Algerian Octatonic
+      origin: Tunisia
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2547
+  names:
+    - name: Raga Ramkali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ramakri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2581
+  names:
+    - name: Raga Neroshta
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2597
+  names:
+    - name: Raga Rasranjani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2601
+  names:
+    - name: Raga Chandrakauns Modern
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Marga Hindola
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Reejeshwari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2609
+  names:
+    - name: Raga Vasanta Ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhinna Shadj
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Hindolita
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kaushikdhvani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2611
+  names:
+    - name: Raga Vasanta Descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Chaya Vati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2613
+  names:
+    - name: Raga Sohni
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2637
+  names:
+    - name: Raga Rangini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ranjiani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2641
+  names:
+    - name: Raga Hindol
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sanjk Ka Hindol
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sunada Vinodini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2643
+  names:
+    - name: Raga Hansanandi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Marva
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Pancama
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Puriya 2
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2645
+  names:
+    - name: Raga Mruganandana
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2651
+  names:
+    - name: Dorian ♭2 Maj7
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2667
+  names:
+    - name: Neapolitan Major ♭5
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2669
+  names:
+    - name: Jeths
+      citations:
+        - TheScaleOmnibus
+    - name: Zangula
+      origin: Nigeria
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2675
+  names:
+    - name: Chromatic Lydian
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhankar
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Lalit
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2677
+  names:
+    - name: Ionian ♭5
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2701
+  names:
+    - name: Hawaiian
+      origin: Hawaii
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2705
+  names:
+    - name: Raga Mamata
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2709
+  names:
+    - name: Lydian Hexatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kamud
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Prabhati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sankara
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Shankara
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2713
+  names:
+    - name: Lydian ♯2 Hexatonic
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2715
+  names:
+    - name: Neapolitan Major ♭4
+      origin: Italy
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2721
+  names:
+    - name: Raga Puruhutika
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Purvaholica
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2723
+  names:
+    - name: Raga Jivantika
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2725
+  names:
+    - name: Raga Nagagandhari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2727
+  names:
+    - name: Mela Manavati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Manoranjani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2731
+  names:
+    - name: Neapolitan Major
+      origin: Italy
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Kokilapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Neapolitan
+      origin: Italy
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kokilaravam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2733
+  names:
+    - name: Melodic Minor
+      citations:
+        - TheScaleOmnibus
+    - name: Ascending Minor
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Gaurimanohari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Mischung 1
+      origin: Germany
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Deshi 2
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Patdip
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Velavali
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2737
+  names:
+    - name: Raga Hari Nata
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Genus Secundum
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2739
+  names:
+    - name: Gypsy Inverse
+      origin: Hungary
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Suryakanta
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bhairubahar
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sowrashtram
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Supradhipam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2741
+  names:
+    - name: Major
+      citations:
+        - TheScaleOmnibus
+    - name: Ajam Shiram
+      citations:
+        - TheScaleOmnibus
+    - name: Ararai
+      origin: Ethiopia
+      citations:
+        - TheScaleOmnibus
+    - name: Dasrgah-e Mahur
+      citations:
+        - TheScaleOmnibus
+    - name: Dastgah-e Rast Panjgah
+      citations:
+        - TheScaleOmnibus
+    - name: Ghana Heptatonic
+      origin: Ghana
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Cargah
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Shankarabharanam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Peruvian Major
+      origin: Peru
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Arabhi descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bilahari descending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bilaval That
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Xin
+      origin: China
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2745
+  names:
+    - name: Houzam
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Huzam
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Ionian ♯2
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Sulini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sailadesakshi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Trishuli
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2757
+  names:
+    - name: Raga Nishadi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2759
+  names:
+    - name: Mela Pavani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kunbhini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2763
+  names:
+    - name: Mela Suvarnangi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sauviram
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2765
+  names:
+    - name: Lydian Diminished
+      citations:
+        - TheScaleOmnibus
+    - name: Lydian ♭3
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Dharmavati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Melodic Minor ♯4
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ambika
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Arunajualita
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Dumyaraga
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Madhuvanti
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2771
+  names:
+    - name: Raga Marwa Thaat
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Gamanasrama
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Peiraiotikos
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bairari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Partivaran
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Puriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Puriya Kalyan
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Purvikalyani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sohani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2773
+  names:
+    - name: Lydian
+      citations:
+        - TheScaleOmnibus
+    - name: Gu
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Mecakalyani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Ping
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kalyan That
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Shuddh Kalyan
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2777
+  names:
+    - name: Aeolian Harmonic
+      citations:
+        - TheScaleOmnibus
+    - name: Lydian ♯2
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Kosalam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kuksumakaram
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2779
+  names:
+    - name: Shostakovich
+      origin: Russia
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2795
+  names:
+    - name: Van Der Host
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2803
+  names:
+    - name: Raga Bhatiyar
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Buzurg
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2805
+  names:
+    - name: Ichilkotsucho
+      citations:
+        - TheScaleOmnibus
+    - name: Genus Diatonicum Veterum Correctum
+      citations:
+        - TheScaleOmnibus
+    - name: Gregorian 5
+      citations:
+        - TheScaleOmnibus
+    - name: Ishikosucho
+      citations:
+        - TheScaleOmnibus
+    - name: Kubilai
+      origin: Mongolia
+      citations:
+        - TheScaleOmnibus
+    - name: Major-Lydian Mixed
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bihag
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Chayanat
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Gaud Sarang
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Hamir Kalyani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kedar
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Yaman Kalyan
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2861
+  names:
+    - name: Jazz Minor ♯5
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2867
+  names:
+    - name: Ionian Augmented ♭9
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2869
+  names:
+    - name: Harmonic Major 2
+      citations:
+        - TheScaleOmnibus
+    - name: Ioanian Augmented
+      citations:
+        - TheScaleOmnibus
+    - name: Ionian ♯5
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2873
+  names:
+    - name: Ionian Augmented ♯2
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2901
+  names:
+    - name: Lydian Augmented
+      citations:
+        - TheScaleOmnibus
+    - name: Altered Lydian
+      citations:
+        - TheScaleOmnibus
+    - name: Lydian ♯5
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2905
+  names:
+    - name: Aeolian ♭1
+      citations:
+        - TheScaleOmnibus
+    - name: Lydian Augmented ♯2
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2907
+  names:
+    - name: Magen Abot
+      origin: Jewish
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2917
+  names:
+    - name: Nohkan
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Lydian Augmented ♯3
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2925
+  names:
+    - name: Diminished
+      citations:
+        - TheScaleOmnibus
+    - name: Messiaen 2nd Mode Inverse
+      citations:
+        - TheScaleOmnibus
+    - name: Modus Conjunctus
+      citations:
+        - TheScaleOmnibus
+    - name: Octatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Whole-Tone Diminished
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2981
+  names:
+    - name: Noh
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2989
+  names:
+    - name: Bebop Melodic Minor
+      citations:
+        - TheScaleOmnibus
+    - name: Zirafkend
+      origin: Arabia
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2995
+  names:
+    - name: Raga Saurashtra
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2997
+  names:
+    - name: Bebop Major
+      citations:
+        - TheScaleOmnibus
+
+- binary: 2999
+  names:
+    - name: Chromatic Permutated Diatonic Dorian
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3003
+  names:
+    - name: Genus Chromaticum
+      citations:
+        - TheScaleOmnibus
+    - name: Messiaen 3rd Mode Inverse
+      citations:
+        - TheScaleOmnibus
+    - name: Tcherepnin
+      origin: Russia
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3055
+  names:
+    - name: Messiaen 7th Mode
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3069
+  names:
+    - name: Maqam Shawq Afza
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3185
+  names:
+    - name: Messiaen 5th Mode Inverse
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3237
+  names:
+    - name: Raga Brindabani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Brindabani Serang
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Megh
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Megh Malhar
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3239
+  names:
+    - name: Mela Tenarupi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Tanukirti
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3243
+  names:
+    - name: Mela Rupavati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3245
+  names:
+    - name: Mela Varunapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Viravasantham
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3249
+  names:
+    - name: Raga Tilang
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Savitri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Bridabani Tilang
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3251
+  names:
+    - name: Mela Hatakambari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Jeyasuddhamalavi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3253
+  names:
+    - name: Mela Naganandini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Nagabharanam
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Samanta
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3257
+  names:
+    - name: Chromatic Dorian Inverse
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Madhuranjani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Nata
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Nattai Ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga None
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3269
+  names:
+    - name: Raga Malarani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3271
+  names:
+    - name: Mela Raghupriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ghandarva
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ravikriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3273
+  names:
+    - name: Raga Gaurikriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Jivantini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3275
+  names:
+    - name: Mela Divyamani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Vamsavathi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3277
+  names:
+    - name: Mela Nitimati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Kaihavasi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Nisada
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3281
+  names:
+    - name: Raga Vijayavasanta
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3283
+  names:
+    - name: Mela Visvambhari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3285
+  names:
+    - name: Lydian ♯6
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Citrambari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Chaturangini
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3289
+  names:
+    - name: Lydian ♯2 ♯6
+      citations:
+        - TheScaleOmnibus
+    - name: Mela Rasikapriya
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Hamsagiri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Rasamanjari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3301
+  names:
+    - name: Chromatic Mixolydian Inverse
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3305
+  names:
+    - name: Blues Leading Tone
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3369
+  names:
+    - name: Raga Malkauns
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3379
+  names:
+    - name: Enigmatic Descending
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3385
+  names:
+    - name: Chromatic Phrygian
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3403
+  names:
+    - name: Enigmatic Minor
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3411
+  names:
+    - name: Enigmatic Ascending
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3413
+  names:
+    - name: Leading Whole-Tone
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3435
+  names:
+    - name: Prokofiev
+      origin: Russia
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3443
+  names:
+    - name: Enigmatic Mixed
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3445
+  names:
+    - name: Messiaen 6th Mode
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3499
+  names:
+    - name: Hamel
+      citations:
+        - TheScaleOmnibus
+    - name: Gregorian 3
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3501
+  names:
+    - name: Bebop Harmonic Minor
+      citations:
+        - TheScaleOmnibus
+    - name: Bebop Natural Minor
+      citations:
+        - TheScaleOmnibus
+    - name: Gregorian 4
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Farahfaza
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Nahawand
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Suha Kanada
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Utility Minor
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3507
+  names:
+    - name: Maqam Hijaz
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3515
+  names:
+    - name: Moorish Phrygian
+      origin: Spain
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3519
+  names:
+    - name: Raga Sindhi-Bhairavi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3531
+  names:
+    - name: Neseveri
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3543
+  names:
+    - name: Symmetrical Nonatonic
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3549
+  names:
+    - name: Messiaen 3rd Mode
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3575
+  names:
+    - name: Symmetrical Decatonic
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3637
+  names:
+    - name: Raga Rageshri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3699
+  names:
+    - name: Oriental 2
+      origin: China
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3705
+  names:
+    - name: Messiaen 4th Mode Inverse
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3749
+  names:
+    - name: Raga Sorati
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sur Malhar
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3757
+  names:
+    - name: Raga Miam Ki Malhar
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bahar
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Sindhura
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3761
+  names:
+    - name: Raga Khamach Ascending
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Madhuri
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3765
+  names:
+    - name: Bebop
+      citations:
+        - TheScaleOmnibus
+    - name: Bebop Mixolydian
+      citations:
+        - TheScaleOmnibus
+    - name: Bebop Dominant
+      citations:
+        - TheScaleOmnibus
+    - name: Chinese Eight-tone
+      origin: China
+      citations:
+        - TheScaleOmnibus
+    - name: Genus Diatonicum
+      citations:
+        - TheScaleOmnibus
+    - name: Gregorian 6
+      citations:
+        - TheScaleOmnibus
+    - name: Major Mixolydian
+      citations:
+        - TheScaleOmnibus
+    - name: Maqam Shawq Awir
+      origin: Iraq
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Alhaiya Bilaval
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Bihagara
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Desh Malhar
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Devagandhari
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Khamaj
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Rast
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3767
+  names:
+    - name: Bebop Chromatic
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3773
+  names:
+    - name: Blues Enneatonic
+      citations:
+        - TheScaleOmnibus
+    - name: Major-Dorian Mixed
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Malgunji
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Ramdasi Malharq
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3829
+  names:
+    - name: Lydian Mixolydian
+      citations:
+        - TheScaleOmnibus
+    - name: Ryo
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+    - name: Taishikicho
+      origin: Japan
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3837
+  names:
+    - name: Minor Pentatonic with Leading Tones
+      citations:
+        - TheScaleOmnibus
+
+- binary: 3965
+  names:
+    - name: Messiaen 7th Mode Inverse
+      citations:
+        - TheScaleOmnibus
+
+- binary: 4013
+  names:
+    - name: Full Minor All Flats
+      citations:
+        - TheScaleOmnibus
+    - name: Raga Pilu
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 4021
+  names:
+    - name: Raga Pahadi
+      origin: India
+      citations:
+        - TheScaleOmnibus
+
+- binary: 4029
+  names:
+    - name: Major Minor Mixed
+      citations:
+        - TheScaleOmnibus
+
+- binary: 4095
+  names:
+    - name: Chromatic
+      citations:
+        - TheScaleOmnibus
