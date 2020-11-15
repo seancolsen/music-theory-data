@@ -1,0 +1,24 @@
+{
+  "name": "music-theory-data",
+  "version": "1.0.0",
+  "description": "A data source containing names and details for musical scales, chords, intervals, and notes.",
+  "main": "README.md",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seancolsen/music-theory-data.git"
+  },
+  "keywords": [
+    "music",
+    "music-theory",
+    "data",
+    "musicology",
+    "musical-scales"
+  ],
+  "author": "Sean Colsen",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/seancolsen/music-theory-data/issues"
+  },
+  "homepage": "https://github.com/seancolsen/music-theory-data#readme"
+}
