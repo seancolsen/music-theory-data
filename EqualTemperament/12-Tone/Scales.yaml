@@ -1755,7 +1755,11 @@
       origin: Arabia
       citations:
         - TheScaleOmnibus
-    - name: Avaha or Ahava Rabba
+    - name: Avaha
+      origin: Jewish
+      citations:
+        - TheScaleOmnibus
+    - name: Ahava Rabba
       origin: Jewish
       citations:
         - TheScaleOmnibus
@@ -1763,13 +1767,20 @@
       origin: Spain
       citations:
         - TheScaleOmnibus
-    - name: Freygish or Fraigish
+    - name: Freygish
+      citations:
+        - TheScaleOmnibus
+    - name: Fraigish
       citations:
         - TheScaleOmnibus
     - name: Harmonic Major Inverse
       citations:
         - TheScaleOmnibus
-    - name: Hitzaz or Hijaz
+    - name: Hitzaz
+      origin: Greece
+      citations:
+        - TheScaleOmnibus
+    - name: Hijaz
       origin: Greece
       citations:
         - TheScaleOmnibus
@@ -2044,7 +2055,11 @@
       origin: India
       citations:
         - TheScaleOmnibus
-    - name: Shee Ranjani or Sriranjani
+    - name: Shee Ranjani
+      origin: India
+      citations:
+        - TheScaleOmnibus
+    - name: Sriranjani
       origin: India
       citations:
         - TheScaleOmnibus
