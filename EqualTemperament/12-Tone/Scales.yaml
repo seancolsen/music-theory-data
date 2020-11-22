@@ -1679,9 +1679,16 @@
 
 - binary: 1453
   names:
+    - name: Natural Minor
+      citations:
+        - TheScaleOmnibus
+      links:
+        - 'https://en.wikipedia.org/wiki/Minor_scale#Natural_minor_scale'
     - name: Aeolian
       citations:
         - TheScaleOmnibus
+      links:
+        - 'https://en.wikipedia.org/wiki/Aeolian_mode'
     - name: Cushak
       origin: Armenia
       citations:
@@ -1698,9 +1705,8 @@
       origin: India
       citations:
         - TheScaleOmnibus
-    - name: Natural Minor
-      citations:
-        - TheScaleOmnibus
+      links:
+        - 'https://en.wikipedia.org/wiki/Natabhairavi'
     - name: Peruvian Minor
       origin: Peru
       citations:
@@ -1713,6 +1719,8 @@
       origin: India
       citations:
         - TheScaleOmnibus
+      links:
+        - 'https://en.wikipedia.org/wiki/Asavari'
     - name: Raga Bhairavi descending
       origin: India
       citations:
