@@ -1,123 +1,179 @@
 ---
 
 - binary: 73
-  names: Diminished
-  abbreviations: dim
-  symbols: <sup>o</sup>
-  links: 'https://en.wikipedia.org/wiki/Diminished_triad'
+  names:
+    - Diminished
+  abbreviations:
+    - dim
+  symbols:
+    - <sup>o</sup>
+  links:
+    - 'https://en.wikipedia.org/wiki/Diminished_triad'
 
 - binary: 133
-  names: Suspended second
-  abbreviations: sus2
-  symbols: <sup>sus2</sup>
-  links: 'https://en.wikipedia.org/wiki/Suspended_chord'
+  names:
+    - Suspended second
+  abbreviations:
+    - sus2
+  symbols:
+    - <sup>sus2</sup>
+  links:
+    - 'https://en.wikipedia.org/wiki/Suspended_chord'
 
 - binary: 137
-  names: Minor
-  abbreviations: min
+  names:
+    - Minor
+  abbreviations:
+    - min
   symbols:
     - m
     - '−'
-  links: 'https://en.wikipedia.org/wiki/Minor_chord'
+  links:
+    - 'https://en.wikipedia.org/wiki/Minor_chord'
 
 - binary: 145
-  names: Major
-  abbreviations: Maj
+  names:
+    - Major
+  abbreviations:
+    - Maj
   symbols:
     - M
     - Δ
-  links: 'https://en.wikipedia.org/wiki/Major_chord'
+  links:
+    - 'https://en.wikipedia.org/wiki/Major_chord'
 
 - binary: 161
-  names: Suspended fourth
-  abbreviations: sus4
+  names:
+    - Suspended fourth
+  abbreviations:
+    - sus4
   symbols:
     - <sup>sus4</sup>
     - <sup>sus</sup>
-  links: 'https://en.wikipedia.org/wiki/Suspended_chord'
+  links:
+    - 'https://en.wikipedia.org/wiki/Suspended_chord'
 
 - binary: 273
-  names: Augmented
-  abbreviations: aug
-  symbols: +
-  links: 'https://en.wikipedia.org/wiki/Augmented_triad'
+  names:
+    - Augmented
+  abbreviations:
+    - aug
+  symbols:
+    - +
+  links:
+    - 'https://en.wikipedia.org/wiki/Augmented_triad'
 
 - binary: 320
-  names: Italian sixth
-  abbreviations: It6
+  names:
+    - Italian sixth
+  abbreviations:
+    - It6
   symbols:
     - It<sup>+6</sup>
     - It<sup>6</sup>
-  links: 'https://en.wikipedia.org/wiki/Augmented_sixth_chord#Italian_sixth'
+  links:
+    - 'https://en.wikipedia.org/wiki/Augmented_sixth_chord#Italian_sixth'
 
 - binary: 325
-  names: French sixth
-  abbreviations: Fr6
+  names:
+    - French sixth
+  abbreviations:
+    - Fr6
   symbols:
     - Fr<sup>+6</sup>
     - Fr<sup>6</sup>
-  links: 'https://en.wikipedia.org/wiki/Augmented_sixth_chord#French_sixth'
+  links:
+    - 'https://en.wikipedia.org/wiki/Augmented_sixth_chord#French_sixth'
 
 - binary: 329
-  names: German sixth
-  abbreviations: Ger6
+  names:
+    - German sixth
+  abbreviations:
+    - Ger6
   symbols:
     - Ger<sup>+6</sup>
     - Ger<sup>6</sup>
-  links: 'https://en.wikipedia.org/wiki/Augmented_sixth_chord#German_sixth'
+  links:
+    - 'https://en.wikipedia.org/wiki/Augmented_sixth_chord#German_sixth'
 
 - binary: 585
-  names: Diminished seventh
-  abbreviations: dim7
-  symbols: <sup>o7</sup>
-  links: 'https://en.wikipedia.org/wiki/Diminished_seventh_chord'
+  names:
+    - Diminished seventh
+  abbreviations:
+    - dim7
+  symbols:
+    - <sup>o7</sup>
+  links:
+    - 'https://en.wikipedia.org/wiki/Diminished_seventh_chord'
 
 - binary: 649
-  names: Minor Sixth
-  abbreviations: min6
-  symbols: m<sup>6</sup>
-  links: 'https://en.wikipedia.org/wiki/Sixth_chord'
+  names:
+    - Minor Sixth
+  abbreviations:
+    - min6
+  symbols:
+    - m<sup>6</sup>
+  links:
+    - 'https://en.wikipedia.org/wiki/Sixth_chord'
 
 - binary: 1097
   names:
     - Half-diminished seventh
     - Half-diminished
     - Minor seventh flat five
-  abbreviations: ø7
+  abbreviations:
+    - ø7
   symbols:
     - <sup>ø7</sup>
     - <sup>ø</sup>
     - m<sup>7♭5</sup>
-  links: 'https://en.wikipedia.org/wiki/Half-diminished_seventh_chord'
+  links:
+    - 'https://en.wikipedia.org/wiki/Half-diminished_seventh_chord'
 
 - binary: 1105
-  names: Dominant seventh flat five
-  abbreviations: dom7♭5
-  symbols: <sup>7♭5</sup>
-  links: 'https://en.wikipedia.org/wiki/Dominant_seventh_flat_five_chord'
+  names:
+    - Dominant seventh flat five
+  abbreviations:
+    - dom7♭5
+  symbols:
+    - <sup>7♭5</sup>
+  links:
+    - 'https://en.wikipedia.org/wiki/Dominant_seventh_flat_five_chord'
 
 - binary: 1161
-  names: Minor seventh
-  abbreviations: min7
-  symbols: m<sup>7</sup>
-  links: 'https://en.wikipedia.org/wiki/Minor_seventh_chord'
+  names:
+    - Minor seventh
+  abbreviations:
+    - min7
+  symbols:
+    - m<sup>7</sup>
+  links:
+    - 'https://en.wikipedia.org/wiki/Minor_seventh_chord'
 
 - binary: 1169
-  names: Dominant seventh
-  abbreviations: dom7
-  symbols: <sup>7</sup>
-  links: 'https://en.wikipedia.org/wiki/Dominant_seventh_chord'
+  names:
+    - Dominant seventh
+  abbreviations:
+    - dom7
+  symbols:
+    - <sup>7</sup>
+  links:
+    - 'https://en.wikipedia.org/wiki/Dominant_seventh_chord'
 
 - binary: 1297
-  names: Augmented seventh
-  abbreviations: aug7
+  names:
+    - Augmented seventh
+  abbreviations:
+    - aug7
   symbols:
     - +<sup>7</sup>
     - aug<sup>7</sup>
-  links: 'https://en.wikipedia.org/wiki/Augmented_seventh_chord'
+  links:
+    - 'https://en.wikipedia.org/wiki/Augmented_seventh_chord'
 
 - binary: 2185
-  names: Minor-major seventh
+  names:
+    - Minor-major seventh
   abbreviations:
     - mM7
     - m/M7
@@ -125,22 +181,29 @@
   symbols:
     - m<sup>M7</sup>
     - m<sup>Δ7</sup>
-  links: 'https://en.wikipedia.org/wiki/Minor_major_seventh_chord'
+  links:
+    - 'https://en.wikipedia.org/wiki/Minor_major_seventh_chord'
 
 - binary: 2193
   names:
     - Major seventh
     - Delta
-  abbreviations: Maj7
-  symbols: M<sup>7</sup>
-  links: 'https://en.wikipedia.org/wiki/Major_seventh_chord'
+  abbreviations:
+    - Maj7
+  symbols:
+    - M<sup>7</sup>
+  links:
+    - 'https://en.wikipedia.org/wiki/Major_seventh_chord'
 
 - binary: 2321
-  names: Augmented major seventh
-  abbreviations: augM7
+  names:
+    - Augmented major seventh
+  abbreviations:
+    - augM7
   symbols:
     - +<sup>M7</sup>
     - +<sup>Δ7</sup>
     - aug<sup>M7</sup>
     - aug<sup>Δ7</sup>
-  links: 'https://en.wikipedia.org/wiki/Augmented_major_seventh_chord'
+  links:
+    - 'https://en.wikipedia.org/wiki/Augmented_major_seventh_chord'
