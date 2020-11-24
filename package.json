@@ -1,6 +1,6 @@
 {
   "name": "music-theory-data",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "A data source containing names and details for musical scales, chords, intervals, and notes.",
   "main": "README.md",
   "scripts": {},
