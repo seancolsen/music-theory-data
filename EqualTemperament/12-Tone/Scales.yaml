@@ -4179,6 +4179,11 @@
     - name: Major
       citations:
         - TheScaleOmnibus
+      links:
+        - 'https://en.wikipedia.org/wiki/Major_scale'
+    - name: Ionian
+      links:
+        - 'https://en.wikipedia.org/wiki/Ionian_mode'
     - name: Ajam Shiram
       citations:
         - TheScaleOmnibus
@@ -4200,10 +4205,6 @@
       origin: Iraq
       citations:
         - TheScaleOmnibus
-    - name: Mela Shankarabharanam
-      origin: India
-      citations:
-        - TheScaleOmnibus
     - name: Peruvian Major
       origin: Peru
       citations:
@@ -4216,10 +4217,26 @@
       origin: India
       citations:
         - TheScaleOmnibus
-    - name: Raga Bilaval That
+    - name: Raga Bilaval
       origin: India
       citations:
         - TheScaleOmnibus
+      links:
+        'https://en.wikipedia.org/wiki/Bilawal'
+    - name: Raga Bilawal
+      origin: India
+      links:
+        'https://en.wikipedia.org/wiki/Bilawal'
+    - name: Mela Dhīraśankarābharaṇaṃ
+      origin: India
+      links:
+        'https://en.wikipedia.org/wiki/Dheerashankarabharanam'
+    - name: Mela Śankarābharaṇaṃ
+      origin: India
+      citations:
+        - TheScaleOmnibus
+      links:
+        'https://en.wikipedia.org/wiki/Dheerashankarabharanam'
     - name: Xin
       origin: China
       citations:
