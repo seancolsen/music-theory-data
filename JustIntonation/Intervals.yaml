@@ -1,0 +1,819 @@
+---
+
+- numerator: 1
+  denominator: 1
+  names:
+    - Unison
+
+- numerator: 4375
+  denominator: 4374
+  names:
+    - Ragisma
+
+- numerator: 2401
+  denominator: 2400
+  names:
+    - Breedsma
+
+- numerator: 32805
+  denominator: 32768
+  names:
+    - Schisma
+
+- numerator: 225
+  denominator: 224
+  names:
+    - Septimal kleisma
+    - Marvel comma
+
+- numerator: 15625
+  denominator: 15552
+  names:
+    - Kleisma
+    - Semicomma majeur
+
+- numerator: 2109375
+  denominator: 2097152
+  names:
+    - Semicomma
+    - Fokker's comma
+
+- numerator: 1728
+  denominator: 1715
+  names:
+    - Orwell comma
+
+- numerator: 126
+  denominator: 125
+  names:
+    - Small septimal comma
+    - Small septimal semicomma
+    - Starling comma
+
+- numerator: 121
+  denominator: 120
+  names:
+    - Undecimal seconds comma
+
+- numerator: 2048
+  denominator: 2025
+  names:
+    - Diaschisma
+    - Minor comma
+
+- numerator: 81
+  denominator: 80
+  names:
+    - Syntonic comma
+    - Major comma
+    - Komma
+    - Comma of Didymus
+
+- numerator: 531441
+  denominator: 524288
+  names:
+    - Pythagorean comma
+    - Ditonic comma
+
+- numerator: 64
+  denominator: 63
+  names:
+    - Septimal comma
+    - Archytas' comma
+
+- numerator: 56
+  denominator: 55
+  names:
+    - Lesser undecimal diesis
+
+- numerator: 50
+  denominator: 49
+  names:
+    - Septimal sixth tone
+    - Jubilisma
+    - Erlich's decatonic comma
+    - Tritonic diesis
+
+- numerator: 49
+  denominator: 48
+  names:
+    - Slendro diesis
+
+- numerator: 45
+  denominator: 44
+  names:
+    - Greater undecimal diesis
+    - Undecimal fifth tone
+
+- numerator: 128
+  denominator: 125
+  names:
+    - Diminished second
+    - Minor diesis
+    - Diesis
+
+- numerator: 40
+  denominator: 39
+  names:
+    - Tridecimal fifth tone
+
+- numerator: 39
+  denominator: 38
+  names:
+    - Superior quarter-tone
+    - Novendecimal fifth tone
+
+- numerator: 36
+  denominator: 35
+  names:
+    - Septimal quarter tone
+    - Septimal chroma
+    - Superior quarter tone
+
+- numerator: 246
+  denominator: 239
+  names:
+    - Just quarter tone
+
+- numerator: 35
+  denominator: 34
+  names:
+    - Lesser 17-limit quarter tone
+
+- numerator: 59049
+  denominator: 57344
+  names:
+    - Harrison's comma
+
+- numerator: 33
+  denominator: 32
+  names:
+    - Undecimal comma
+    - Undecimal quarter tone
+
+- numerator: 32
+  denominator: 31
+  names:
+    - Inferior quarter-tone
+
+- numerator: 31
+  denominator: 30
+  names:
+    - Greater quarter-tone
+
+- numerator: 28
+  denominator: 27
+  names:
+    - Septimal minor second
+    - Small minor second
+
+- numerator: 27
+  denominator: 26
+  names:
+    - Tridecimal comma
+
+- numerator: 26
+  denominator: 25
+  names:
+    - Tridecimal third tone
+    - Third tone
+
+- numerator: 25
+  denominator: 24
+  names:
+    - Small just minor second
+    - Just semitone
+    - Minor chroma
+    - Lesser chromatic semitone
+    - Small just semitone
+
+- numerator: 22
+  denominator: 21
+  names:
+    - Hard semitone
+
+- numerator: 21
+  denominator: 20
+  names:
+    - Septimal chromatic semitone
+    - Just minor semitone
+
+- numerator: 20
+  denominator: 19
+  names:
+    - Novendecimal augmented unison
+
+- numerator: 256
+  denominator: 243
+  names:
+    - Pythagorean minor second
+    - Pythagorean diatonic semitone
+    - Low Semitone
+
+- numerator: 135
+  denominator: 128
+  names:
+    - Greater chromatic semitone
+    - Chromatic semitone
+    - Semitone medius
+    - Major chroma
+    - Major chromatic semitone
+
+- numerator: 19
+  denominator: 18
+  names:
+    - Novendecimal minor second
+
+- numerator: 128
+  denominator: 121
+  names:
+    - Undecimal minor second
+
+- numerator: 17
+  denominator: 16
+  names:
+    - Just major semitone
+    - Overtone semitone
+
+- numerator: 16
+  denominator: 15
+  names:
+    - Large just minor second
+    - Just diatonic semitone
+    - Large just semitone
+    - Minor diatonic semitone
+    - Diatonic second semitone
+    - Diatonic semitone
+
+- numerator: 2187
+  denominator: 2048
+  names:
+    - Apotome
+    - Pythagorean major semitone
+    - Pythagorean augmented unison
+    - Pythagorean chromatic semitone
+    - Pythagorean apotome
+
+- numerator: 15
+  denominator: 14
+  names:
+    - Septimal diatonic semitone
+    - Major diatonic semitone
+    - Cowell semitone
+
+- numerator: 14
+  denominator: 13
+  names:
+    - Lesser tridecimal 2/3-tone
+
+- numerator: 27
+  denominator: 25
+  names:
+    - Just minor second
+    - Semitone maximus
+    - Bohlen-Pierce small semitone
+    - High semitone
+    - Acute minor second
+
+- numerator: 13
+  denominator: 12
+  names:
+    - Three-quarter tone
+
+- numerator: 12
+  denominator: 11
+  names:
+    - Undecimal neutral second
+
+- numerator: 800
+  denominator: 729
+  names:
+    - Grave whole tone
+    - Neutral second
+    - Grave major second
+
+- numerator: 11
+  denominator: 10
+  names:
+    - Ptolemy's second
+
+- numerator: 65536
+  denominator: 59049
+  names:
+    - Pythagorean diminished third
+    - Pythagorean minor tone
+
+- numerator: 10
+  denominator: 9
+  names:
+    - Just minor tone
+    - Just minor whole tone
+    - Lesser whole tone
+    - Small just whole tone
+
+- numerator: 9
+  denominator: 8
+  names:
+    - Pythagorean major second
+    - Just major tone
+    - Just major second
+    - Tonus
+    - Large just whole tone
+    - Greater whole tone
+
+- numerator: 256
+  denominator: 225
+  names:
+    - Just diminished third
+
+- numerator: 8
+  denominator: 7
+  names:
+    - Septimal major second
+    - Septimal whole tone
+
+- numerator: 125
+  denominator: 108
+  names:
+    - Semi-augmented whole tone
+    - Semi-augmented second
+
+- numerator: 7
+  denominator: 6
+  names:
+    - Septimal minor third
+    - Sub minor third
+
+- numerator: 75
+  denominator: 64
+  names:
+    - Just augmented second
+    - Augmented tone
+    - Augmented second
+
+- numerator: 13
+  denominator: 11
+  names:
+    - Tridecimal minor third
+
+- numerator: 32
+  denominator: 27
+  names:
+    - Pythagorean minor third
+    - Semiditone
+
+- numerator: 19
+  denominator: 16
+  names:
+    - Overtone minor third
+
+- numerator: 25
+  denominator: 21
+  names:
+    - Quasi-equal-tempered minor third
+    - Bohlen-Pierce second
+
+- numerator: 6
+  denominator: 5
+  names:
+    - Just minor third
+
+- numerator: 19683
+  denominator: 16384
+  names:
+    - Pythagorean augmented second
+
+- numerator: 17
+  denominator: 14
+  names:
+    - Superminor third
+
+- numerator: 243
+  denominator: 200
+  names:
+    - Acute minor third
+
+- numerator: 128
+  denominator: 105
+  names:
+    - Septimal neutral third
+
+- numerator: 11
+  denominator: 9
+  names:
+    - Undecimal neutral third
+
+- numerator: 27
+  denominator: 22
+  names:
+    - Zalzal's wosta
+
+- numerator: 16
+  denominator: 13
+  names:
+    - Tridecimal neutral third
+
+- numerator: 100
+  denominator: 81
+  names:
+    - Grave major third
+
+- numerator: 8192
+  denominator: 6561
+  names:
+    - Pythagorean diminished fourth
+    - Pythagorean schismatic third
+
+- numerator: 5
+  denominator: 4
+  names:
+    - Just major third
+
+- numerator: 81
+  denominator: 64
+  names:
+    - Pythagorean major third
+    - Ditone
+
+- numerator: 14
+  denominator: 11
+  names:
+    - Undecimal diminished fourth
+
+- numerator: 32
+  denominator: 25
+  names:
+    - Just diminished fourth
+    - Diminished fourth
+
+- numerator: 9
+  denominator: 7
+  names:
+    - Septimal major third
+    - Bohlen-Pierce third
+    - Super major Third
+
+- numerator: 13
+  denominator: 10
+  names:
+    - Tridecimal major third
+
+- numerator: 125
+  denominator: 96
+  names:
+    - Just augmented third
+    - Augmented third
+
+- numerator: 21
+  denominator: 16
+  names:
+    - Narrow fourth
+    - Septimal fourth
+
+- numerator: 675
+  denominator: 512
+  names:
+    - Wide augmented third
+
+- numerator: 4
+  denominator: 3
+  names:
+    - Perfect fourth
+    - Pythagorean perfect fourth
+    - Just perfect fourth
+    - Diatessaron
+
+- numerator: 27
+  denominator: 20
+  names:
+    - Wolf fourth
+    - Acute fourth
+    - Imperfect fourth
+
+- numerator: 177147
+  denominator: 131072
+  names:
+    - Pythagorean augmented third
+
+- numerator: 15
+  denominator: 11
+  names:
+    - Undecimal augmented fourth
+
+- numerator: 11
+  denominator: 8
+  names:
+    - Undecimal tritone
+    - Lesser undecimal tritone
+    - Undecimal semi-augmented fourth
+
+- numerator: 18
+  denominator: 13
+  names:
+    - Tridecimal augmented fourth
+
+- numerator: 25
+  denominator: 18
+  names:
+    - Just augmented fourth
+
+- numerator: 7
+  denominator: 5
+  names:
+    - Lesser septimal tritone
+    - Septimal diminished fifth
+    - Bohlen-Pierce fourth
+
+- numerator: 1024
+  denominator: 729
+  names:
+    - Pythagorean diminished fifth
+    - Low Pythagorean tritone
+
+- numerator: 45
+  denominator: 32
+  names:
+    - Diatonic tritone
+    - False fourth
+    - High 5-limit tritone
+
+- numerator: 64
+  denominator: 45
+  names:
+    - Just tritone
+    - False fifth
+    - Diminished fifth
+    - Low 5-limit tritone
+
+- numerator: 729
+  denominator: 512
+  names:
+    - Pythagorean augmented fourth
+    - Tritone
+    - High Pythagorean tritone
+
+- numerator: 10
+  denominator: 7
+  names:
+    - Greater septimal tritone
+    - Septimal tritone
+    - Euler's tritone
+
+- numerator: 23
+  denominator: 16
+  names:
+    - Classic diminished fifth
+
+- numerator: 36
+  denominator: 25
+  names:
+    - Just diminished fifth
+
+- numerator: 16
+  denominator: 11
+  names:
+    - Undecimal semi-diminished fifth
+
+- numerator: 262144
+  denominator: 177147
+  names:
+    - Pythagorean diminished sixth
+
+- numerator: 40
+  denominator: 27
+  names:
+    - Wolf fifth
+    - Diminished sixth
+    - Grave fifth
+    - Imperfect fifth
+
+- numerator: 3
+  denominator: 2
+  names:
+    - Perfect fifth
+    - Pythagorean perfect fifth
+    - Just perfect fifth
+    - Diapente
+    - Just fifth
+
+- numerator: 1024
+  denominator: 675
+  names:
+    - Narrow diminished sixth
+
+- numerator: 32
+  denominator: 21
+  names:
+    - Septimal diminished sixth
+
+- numerator: 192
+  denominator: 125
+  names:
+    - Classic diminished sixth
+
+- numerator: 14
+  denominator: 9
+  names:
+    - Septimal minor sixth
+
+- numerator: 25
+  denominator: 16
+  names:
+    - Just augmented fifth
+
+- numerator: 11
+  denominator: 7
+  names:
+    - Undecimal minor sixth
+    - Undecimal augmented fifth
+
+- numerator: 128
+  denominator: 81
+  names:
+    - Pythagorean minor sixth
+
+- numerator: 8
+  denominator: 5
+  names:
+    - Just minor sixth
+
+- numerator: 6561
+  denominator: 4096
+  names:
+    - Pythagorean augmented fifth
+    - Pythagorean schismatic sixth
+
+- numerator: 81
+  denominator: 50
+  names:
+    - Acute minor sixth
+
+- numerator: 13
+  denominator: 8
+  names:
+    - Tridecimal neutral sixth
+    - Neutral sixth
+    - Overtone sixth
+
+- numerator: 18
+  denominator: 11
+  names:
+    - Undecimal neutral sixth
+    - Zalzal's neutral sixth
+
+- numerator: 400
+  denominator: 243
+  names:
+    - Grave major sixth
+
+- numerator: 32768
+  denominator: 19683
+  names:
+    - Pythagorean diminished seventh
+
+- numerator: 5
+  denominator: 3
+  names:
+    - Just major sixth
+    - Bohlen-Pierce sixth
+
+- numerator: 27
+  denominator: 16
+  names:
+    - Pythagorean major sixth
+
+- numerator: 128
+  denominator: 75
+  names:
+    - Just diminished seventh
+    - Diminished seventh
+
+- numerator: 12
+  denominator: 7
+  names:
+    - Septimal major sixth
+
+- numerator: 125
+  denominator: 72
+  names:
+    - Lesser just augmented sixth
+
+- numerator: 7
+  denominator: 4
+  names:
+    - Septimal minor seventh
+    - Harmonic seventh
+    - Augmented sixth
+
+- numerator: 225
+  denominator: 128
+  names:
+    - Greater just augmented sixth
+
+- numerator: 16
+  denominator: 9
+  names:
+    - Pythagorean minor seventh
+    - Small just minor seventh
+    - Lesser minor seventh
+    - Just minor seventh
+
+- numerator: 9
+  denominator: 5
+  names:
+    - Greater just minor seventh
+    - Large just minor seventh
+    - Bohlen-Pierce seventh
+
+- numerator: 59049
+  denominator: 32768
+  names:
+    - Pythagorean augmented sixth
+
+- numerator: 20
+  denominator: 11
+  names:
+    - Large minor seventh
+
+- numerator: 729
+  denominator: 400
+  names:
+    - Acute minor seventh
+
+- numerator: 64
+  denominator: 35
+  names:
+    - Septimal neutral seventh
+
+- numerator: 11
+  denominator: 6
+  names:
+    - Undecimal neutral seventh
+    - Undecimal median seventh
+
+- numerator: 50
+  denominator: 27
+  names:
+    - Grave major seventh
+
+- numerator: 13
+  denominator: 7
+  names:
+    - Tridecimal neutral seventh
+
+- numerator: 4096
+  denominator: 2187
+  names:
+    - Pythagorean diminished octave
+
+- numerator: 15
+  denominator: 8
+  names:
+    - Small just major seventh
+
+- numerator: 256
+  denominator: 135
+  names:
+    - Narrow diminished octave
+
+- numerator: 243
+  denominator: 128
+  names:
+    - Pythagorean major seventh
+
+- numerator: 48
+  denominator: 25
+  names:
+    - Classic diminished octave
+    - Large just major seventh
+
+- numerator: 27
+  denominator: 14
+  names:
+    - Septimal major seventh
+
+- numerator: 31
+  denominator: 16
+  names:
+    - Augmented seventh
+
+- numerator: 35
+  denominator: 18
+  names:
+    - Septimal supermajor seventh
+    - Septimal quarter tone inverted
+
+- numerator: 125
+  denominator: 64
+  names:
+    - Just augmented seventh
+
+- numerator: 160
+  denominator: 81
+  names:
+    - Semi-diminished octave
+
+- numerator: 2
+  denominator: 1
+  names:
+    - Octave

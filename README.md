@@ -45,7 +45,7 @@ This project doesn't yet contain any data for such scales, but contributions to 
 
 ## What about just intonation?
 
-I would very much like to add that data. Please help if you have time! Let's chat in an issue first to agree upon a schema.
+This is still a work in progress. Please help if you have time! Let's chat in an issue first to agree upon a schema.
 
 ## How to help improve this data
 
